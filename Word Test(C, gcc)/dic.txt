@@ -1,0 +1,8 @@
+lion 사자 
+tiger  호랑이
+lemon  레몬
+pencil  연필
+dog  개
+cat  고양이
+cb 씨비
+ca 씨에이
